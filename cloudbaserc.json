@@ -1,11 +1,11 @@
 {
   "version": "2.0",
-  "envId": "vite-vue3-template-2d76i8beae2d0",
-  "region": "ap-guangzhou",
+  "envId": "kerno-photo-0got9tjdb1cb34fe",
+  "region": "ap-shanghai",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "functionRoot": "cloudfunctions",
   "framework": {
-    "name": "vite-vue3-template",
+    "name": "kerno-photo-web",
     "plugins": {
       "client": {
         "use": "@cloudbase/framework-plugin-website",
